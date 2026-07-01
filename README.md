@@ -149,25 +149,6 @@ I enjoy creating intuitive user experiences, designing scalable architectures an
 
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonataewerton&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonataewerton&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jhonataewerton&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
