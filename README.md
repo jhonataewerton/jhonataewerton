@@ -150,24 +150,6 @@ I enjoy creating intuitive user experiences, designing scalable architectures an
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonataewerton&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jhonataewerton&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
-
 # 🌱 Current Focus
 
 - Advanced Angular
