@@ -152,6 +152,7 @@ I enjoy creating intuitive user experiences, designing scalable architectures an
 
 # 🌱 Current Focus
 
+- AI Engineer
 - Advanced Angular
 - Software Architecture
 - Cloud Solutions
